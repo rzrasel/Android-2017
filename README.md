@@ -1,1 +1,2 @@
-# Android-2017
+# BirthdayReminder
+Android Application
