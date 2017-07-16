@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:title="@string/preferanserSmsMeldingTittel"
+        android:summary="@string/preferanserSmsMeldingSummary"
+        android:defaultValue="Gratulerer med dagen!"
+        android:key="edittext_preference" />
+
+    <CheckBoxPreference
+        android:title="@string/preferanserSendSmsTittel"
+        android:summary="@string/preferanserSendSmsSummary"
+        android:defaultValue="true"
+        android:key="checkbox_preference" />
+
+    <CheckBoxPreference
+        android:title="@string/preferences_varsling_title"
+        android:summary="@string/preferences_varsling_summary"
+        android:defaultValue="true"
+        android:key="varslingCheckBox" />
+
+    <com.example.s198586_mappe2.TimePreference
+        android:key="preferences_tidspunkt"
+        android:showDefault="true"
+        android:defaultValue="08:00"
+        android:summary="@string/preferences_time_summary"
+        android:title="@string/preferences_time_title"/>
+</PreferenceScreen>
