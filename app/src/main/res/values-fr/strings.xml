@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Titles -->
+    <string name="app_name">Anniversaires</string>
+    <string name="dialog_add">Nouvel anniversaire</string>
+    <string name="dialog_edit">Modifier anniversaire</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="notification_title">Rappel d\'anniversaire</string>
+    <string name="title_activity_help">Aidez-moi</string>
+
+    <!-- Menu -->
+    <string name="action_help">Aidez-moi</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="item_menu_edit">Modifier</string>
+    <string name="item_menu_delete">Effacer</string>
+    <string name="item_menu_alarm">Rappel bascule</string>
+
+    <!-- AddEdit DialogFragment -->
+    <string name="hint_name">Prénom&#8230;</string>
+    <string name="button_positive">Terminé</string>
+    <string name="button_negative">Annuler</string>
+
+    <string name="birthday">anniversaire</string>
+    <string name="date_is">est</string>
+    <string name="date_today">Este Dia</string>
+    <string name="date_tomorrow">mañana</string>
+    <string name="date_week">la próxima semana</string>
+    <string name="date_2_week">dans deux semaines</string>
+    <string name="date_this">este </string>
+    <string name="date_days">Jours</string>
+    <string name="reminder_set">mettre</string>
+    <string name="reminder_canceled">annulé</string>
+    <string name="pref_category_reminder">Paramètres de rappel</string>
+
+    <!-- Preference Strings -->
+    <string name="enabled">permis</string>
+    <string name="disabled">désactivée</string>
+    <string name="date">la date</string>
+    <string name="name">prénom</string>
+    <string name="day0">Au jour</string>
+    <string name="day1">le jour d\'avant</string>
+    <string name="day2">2 jours avant</string>
+    <string name="day3">3 jours avant</string>
+    <string name="day4">4 jours avant</string>
+    <string name="day5">5 jours avant</string>
+    <string name="day6">6 jours avant</string>
+    <string name="day7">une semaine avant</string>
+    <string name="day14">2 semanines avant</string>
+
+    <string name="pref_remind_day_title">Rappelle moi</string>
+    <string name="pref_remind_day_title_dialog">Jour de rappel</string>
+    <string name="pref_remind_time_title">Heure de rappel</string>
+    <string name="pref_enable_notifications_label">Afficher les rappels?</string>
+    <string name="pref_vibrate_label">Autoriser vibrations?</string>
+    <string name="pref_sound_label">Permettre au son?</string>
+    <string name="pref_test_notification_summary">Afficher une notification d\' exemple en utilisant les paramètres actuels</string>
+    <string name="pref_test_notification_title">Afficher un exemple rappel</string>
+    <string name="pref_sort_by_title">Anniversaires de tri</string>
+    <string name="pref_sort_by_title_dialog">Trier par anniversaires</string>
+
+    <string name="help_add_title">Ajouter anniversaire</string>
+    <string name="help_add_content">Pour ajouter un nouveau rappel d\'anniversaire, appuyez sur l\'icône de gâteau d\'anniversaire. Puis entrez le nom et la date.</string>
+    <string name="help_edit_title">Modifier anniversaire</string>
+    <string name="help_edit_content">Tapez le nom de l\' anniversaire que vous souhaitez modifier. Puis cliquez sur le bouton Modifier.</string>
+    <string name="help_delete_title">Supprimer anniversaire</string>
+    <string name="help_delete_content">Appuyez sur l\' anniversaire que vous souhaitez modifier dans la liste. Puis appuyez sur Supprimer.</string>
+    <string name="help_alarm_single_title">Tournez rappel off</string>
+    <string name="help_alarm_single_content">Appuyez sur l\'icône d\'alarme pour activer le rappel d\'alarme.</string>
+    <string name="help_alarm_all_title">Mettez tous les rappels off</string>
+    <string name="help_alarm_all_content">Ouvrez le menu des paramètres, et appuyez sur lz\'option de notifications de rappel sur Autoriser.</string>
+
+    <!-- Information & help Text -->
+    <string name="empty_list_message">Appuyez sur le gâteau d\'anniversaire icône pour commencer à ajouter les anniversaires!</string>
+
+    <!-- New Strings -->
+    <string name="date_yesterday">Hier</string>
+    <string name="pref_theme_dialog_title">Couleur thème</string>
+    <string name="pref_theme_title">Choisissez Couleur</string>
+    <string name="theme0">Bleu</string>
+    <string name="theme1">Rose</string>
+    <string name="theme2">ert</string>
+    <string name="pref_category_list">Paramètres d\'affichage</string>
+    <string name="preffered_email">Choisissez votre application préférée</string>
+    <string name="send_email">Envoyer le message</string>
+    <string name="email_me_text">Envoyer MeReceive aide, envoyez vos commentaires ou suggérer une nouvelle featuressage</string>
+    <string name="reminder_for">"Rappel pour "</string>
+    <string name="for_next_year">" pour l\'année prochaine"</string>
+    <string name="include_year">Inclure l\'année</string>
+    <string name="deleted">supprimé</string>
+    <string name="undo">annuler</string>
+    <string name="no_contacts_message"> S\'il vous plaît ajouter des informations d\'anniversaire à vos contacts pour eux de montrer ici.</string>
+    <string name="no_contacts_found">Aucun contact trouvé</string>
+    <string name="import_contacts">contacts d\'importation</string>
+    <string name="contact_already_added">a déjà été ajouté</string>
+    <string name="contact_permission_denied_message">l\'autorisation nécessaire pour charger les contacts</string>
+    <string name="added">ajouté</string>
+    <string name="title_privacy_policy">Politique de confidentialité</string>
+    <string name="error_try_again">Erreur, s\'il vous plaît essayer à nouveau&#8230;</string>
+
+
+</resources>

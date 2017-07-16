@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Titles -->
+    <string name="app_name">Cumpleaños</string>
+    <string name="dialog_add">Nuevo Cumpleaños</string>
+    <string name="dialog_edit">Editar Cumpleaños</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="notification_title">Recordatorio De Cumpleaños</string>
+    <string name="title_activity_help">Ayuda</string>
+
+    <!-- Menu -->
+    <string name="action_help">Ayuda</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="item_menu_edit">Editar</string>
+    <string name="item_menu_delete">Borrar</string>
+    <string name="item_menu_alarm">Recordatorio De Palanca</string>
+
+    <!-- AddEdit DialogFragment -->
+    <string name="hint_name">Nombre&#8230;</string>
+    <string name="button_positive">Hecho</string>
+    <string name="button_negative">Cancelar</string>
+
+    <string name="birthday">cumpleaños</string>
+    <string name="date_is">es</string>
+    <string name="date_today">este dia</string>
+    <string name="date_tomorrow">mañana</string>
+    <string name="date_week">la próxima semana</string>
+    <string name="date_2_week">en dos semanas</string>
+    <string name="date_this">esta </string>
+    <string name="date_days">día</string>
+    <string name="reminder_set">conjunto</string>
+    <string name="reminder_canceled">cancelado</string>
+    <string name="pref_category_reminder">Ajustes de recordatorio</string>
+
+    <!-- Preference Strings -->
+    <string name="enabled">habilitado</string>
+    <string name="disabled">Incapacitado</string>
+    <string name="date">Fecha</string>
+    <string name="name">Nombre</string>
+    <string name="day0">al día</string>
+    <string name="day1">el día antes</string>
+    <string name="day2">2 días antes</string>
+    <string name="day3">3 días antes</string>
+    <string name="day4">4 días antes</string>
+    <string name="day5">5 días antes</string>
+    <string name="day6">6 días antes</string>
+    <string name="day7">una semana antes</string>
+    <string name="day14">2 semanas antes</string>
+
+    <string name="pref_remind_day_title">Me recuerda</string>
+    <string name="pref_remind_day_title_dialog">Día de recordatorio</string>
+    <string name="pref_remind_time_title">Tiempo de recordatorio</string>
+    <string name="pref_enable_notifications_label">Muestran recordatorios?</string>
+    <string name="pref_vibrate_label">Permitir que las vibraciones?</string>
+    <string name="pref_sound_label">Permitir tono de alarma?</string>
+    <string name="pref_test_notification_summary">Mostrar una notificación por ejemplo usando los ajustes actuales</string>
+    <string name="pref_test_notification_title">Mostrar ejemplo recordatorio</string>
+    <string name="pref_sort_by_title">Cumpleaños ordenar</string>
+    <string name="pref_sort_by_title_dialog">Ordenar los cumpleaños de</string>
+
+    <string name="help_add_title">Añadir cumpleaños</string>
+    <string name="help_add_content">Para agregar un nuevo recordatorio de cumpleaños, pulse el icono de pastel de cumpleaños. A continuación, introduzca el nombre y la fecha.</string>
+    <string name="help_edit_title">Editar cumpleaños</string>
+    <string name="help_edit_content">Toque en el nombre del cumpleaños que le gustaría cambiar. Luego haga clic en el botón de edición.</string>
+    <string name="help_delete_title">eliminar cumpleaños</string>
+    <string name="help_delete_content">Toque en el cumpleaños que le gustaría cambiar de la lista. A continuación, puntee Eliminar.</string>
+    <string name="help_alarm_single_title">Gire recordatorio fuera</string>
+    <string name="help_alarm_single_content">Toque el icono de alarma para cambiar la alarma de recordatorio.</string>
+    <string name="help_alarm_all_title">Apague todos los recordatorios de</string>
+    <string name="help_alarm_all_content">Abra el menú de ajustes y toque la opción de notificaciones de recordatorio Permitir.</string>
+
+    <!-- Information & help Text -->
+    <string name="empty_list_message">Toque el icono de pastel de cumpleaños para añadir nuevas cumpleaños!</string>
+
+    <!-- New Strings -->
+    <string name="date_yesterday">ayer</string>
+    <string name="pref_theme_dialog_title">color del tema</string>
+    <string name="pref_theme_title">Elija Color</string>
+    <string name="theme0">azul</string>
+    <string name="theme1">Rosa</string>
+    <string name="theme2">verde</string>
+    <string name="pref_category_list">Configuración de pantalla</string>
+    <string name="preffered_email">Elige tu aplicación de correo electrónico preferida</string>
+    <string name="send_email">enviar mensaje</string>
+    <string name="email_me_text">Recibe ayuda, enviar comentarios o sugerir una nueva característica</string>
+    <string name="reminder_for">"Recordatorio para "</string>
+    <string name="for_next_year">" para el próximo año"</string>
+    <string name="include_year">incluir año</string>
+    <string name="deleted">eliminados</string>
+    <string name="undo">anular</string>
+    <string name="contact_already_added">ya se ha añadido</string>
+    <string name="contact_permission_denied_message">El permiso necesario para cargar los contactos</string>
+    <string name="import_contacts">importar contactos</string>
+    <string name="no_contacts_found">No hay contactos</string>
+    <string name="no_contacts_message">Por favor, añadir información de cumpleaños a sus contactos para que se muestran aquí .</string>
+    <string name="added">agregó</string>
+    <string name="title_privacy_policy"> Política de privacidad</string>
+    <string name="error_try_again">Error, por favor, inténtelo de nuevo&#8230;</string>
+
+
+</resources>

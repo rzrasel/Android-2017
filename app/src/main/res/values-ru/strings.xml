@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Titles -->
+    <string name="app_name">Дни рождения</string>
+    <string name="dialog_add">Добавить рождения</string>
+    <string name="dialog_edit">редактировать рождения</string>
+    <string name="title_activity_settings">настройки</string>
+    <string name="notification_title">напоминание о дне рождения</string>
+    <string name="title_activity_help">Помогите</string>
+
+    <!-- Menu -->
+    <string name="action_help">Помогите</string>
+    <string name="action_settings">настройки</string>
+    <string name="item_menu_edit">отредактировать</string>
+    <string name="item_menu_delete">Удалить</string>
+    <string name="item_menu_alarm">переключатель напоминание</string>
+
+    <!-- AddEdit DialogFragment -->
+    <string name="hint_name">имя&#8230;</string>
+    <string name="button_positive">сделанный</string>
+    <string name="button_negative">Отмена</string>
+
+    <string name="birthday">день рождения</string>
+    <string name="date_is">это</string>
+    <string name="date_today">Cегодня</string>
+    <string name="date_tomorrow">завтра</string>
+    <string name="date_week">Следующая неделя</string>
+    <string name="date_2_week">В течение двух недель</string>
+    <string name="date_this">это</string>
+    <string name="date_days">дней</string>
+    <string name="reminder_set">включить</string>
+    <string name="reminder_canceled">отменен</string>
+    <string name="pref_category_reminder">настройки напоминаний</string>
+
+    <!-- Preference Strings -->
+    <string name="enabled">включен</string>
+    <string name="disabled">отключен</string>
+    <string name="date">Дата</string>
+    <string name="name">имя</string>
+    <string name="day0">в день</string>
+    <string name="day1">за день до</string>
+    <string name="day2">2 дней до</string>
+    <string name="day3">3 дней до</string>
+    <string name="day4">4 дней до</string>
+    <string name="day5">5 дней до</string>
+    <string name="day6">6 дней до</string>
+    <string name="day7">за неделю до</string>
+    <string name="day14">2 недель до</string>
+
+
+    <string name="pref_remind_day_title">Напомни мне</string>
+    <string name="pref_remind_day_title_dialog">День напоминания</string>
+    <string name="pref_remind_time_title">Время напоминания</string>
+    <string name="pref_enable_notifications_label">Показать напоминания?</string>
+    <string name="pref_vibrate_label">Разрешить вибрацию?</string>
+    <string name="pref_sound_label">Разрешить звук?</string>
+    <string name="pref_test_notification_summary">Показать пример уведомления с использованием текущих настроек</string>
+    <string name="pref_test_notification_title">Показать пример напоминание</string>
+    <string name="pref_sort_by_title">cортировать рождения</string>
+    <string name="pref_sort_by_title_dialog">Сортировать по рождения</string>
+
+    <string name="help_add_title">Добавить рождения</string>
+    <string name="help_add_content">Чтобы добавить новое напоминание на день рождения, нажмите на значок рождения торт. Затем введите имя и дату.</string>
+    <string name="help_edit_title">Редактировать День рождения</string>
+    <string name="help_edit_content">Нажмите на имя рождения вы хотели бы изменить. Затем нажмите кнопку Изменить.</string>
+    <string name="help_delete_title">Удалить рождения</string>
+    <string name="help_delete_content">Нажмите рождения вы хотели бы изменить в списке. Затем нажмите удалить.</string>
+    <string name="help_alarm_single_title">Oтменить напоминание</string>
+    <string name="help_alarm_single_content">Нажмите на значок будильника , чтобы переключить сигнал напоминания.</string>
+    <string name="help_alarm_all_title">Включите все напоминания от</string>
+    <string name="help_alarm_all_content">Откройте меню настроек, и нажмите опцию уведомлений напоминания Разрешить.</string>
+
+    <!-- Information & help Text -->
+    <string name="empty_list_message">Нажмите на значок день рождения торт, чтобы добавить новые дни рождения!</string>
+
+    <!-- New Strings -->
+    <string name="date_yesterday">Вчера</string>
+    <string name="pref_theme_dialog_title">тема Цвет</string>
+    <string name="pref_theme_title">Выберите цвет</string>
+    <string name="theme0">синий</string>
+    <string name="theme1">розовый</string>
+    <string name="theme2">зеленый</string>
+    <string name="pref_category_list">Настройки отображения</string>
+    <string name="preffered_email">Выберите желаемое приложение</string>
+    <string name="send_email">Отправить на e-mail</string>
+    <string name="email_me_text">Получите помощь, отправить отзыв или предложить новую функцию</string>
+    <string name="reminder_for">"напоминание "</string>
+    <string name="for_next_year">" на следующий год"</string>
+    <string name="include_year">Включают год</string>
+    <string name="deleted">удален</string>
+    <string name="undo">Отмена</string>
+    <string name="no_contacts_message">Пожалуйста, добавьте информацию о дне рождения ваших контактов для них, чтобы показать здесь.</string>
+    <string name="no_contacts_found">Не найдено ни одного контакта</string>
+    <string name="import_contacts">Импортировать контакты</string>
+    <string name="contact_permission_denied_message">Разрешение необходимо загрузить контакты</string>
+    <string name="contact_already_added">уже была добавлена</string>
+    <string name="added">добавленный</string>
+    <string name="title_privacy_policy">политика конфиденциальности</string>
+    <string name="error_try_again">Ошибка, попробуйте еще раз&#8230;</string>
+
+
+</resources>

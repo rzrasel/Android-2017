@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:layout="@layout/preference_layout"
+        android:title="@string/pref_category_list">
+
+        <ListPreference
+            android:defaultValue="0"
+            android:dialogTitle="@string/pref_theme_title"
+            android:entries="@array/themeEntries"
+            android:entryValues="@array/themeValues"
+            android:key="@string/pref_theme_key"
+            android:title="@string/pref_theme_dialog_title" />
+
+        <ListPreference
+            android:defaultValue="0"
+            android:dialogTitle="@string/pref_sort_by_title"
+            android:entries="@array/pref_sort_entries"
+            android:entryValues="@array/pref_sort_values"
+            android:key="@string/pref_sort_by_key"
+            android:title="@string/pref_sort_by_title" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:layout="@layout/preference_layout"
+        android:title="@string/pref_category_reminder">
+
+        <CheckBoxPreference
+            android:defaultValue="@string/pref_enable_notifications_default"
+            android:key="@string/pref_enable_notifications_key"
+            android:summaryOff="@string/pref_enable_notifications_false"
+            android:summaryOn="@string/pref_enable_notifications_true"
+            android:title="@string/pref_enable_notifications_label" />
+
+        <ListPreference
+            android:defaultValue="1"
+            android:dialogTitle="@string/pref_remind_day_title"
+            android:entries="@array/dayRemindEntries"
+            android:entryValues="@array/dayRemindValues"
+            android:key="@string/pref_days_before_key"
+            android:title="@string/pref_remind_day_title_dialog" />
+
+        <ListPreference
+            android:defaultValue="@string/pref_time_12"
+            android:dialogTitle="@string/pref_remind_day_title"
+            android:entries="@array/timeRemindEntries"
+            android:entryValues="@array/timeRemindValues"
+            android:key="@string/pref_time_before_key"
+            android:title="@string/pref_remind_time_title" />
+
+        <CheckBoxPreference
+            android:defaultValue="@string/pref_vibrate_default"
+            android:key="@string/pref_vibrate_key"
+            android:summaryOff="@string/pref_vibrate_false"
+            android:summaryOn="@string/pref_vibrate_true"
+            android:title="@string/pref_vibrate_label" />
+
+        <CheckBoxPreference
+            android:defaultValue="@string/pref_sound_default"
+            android:key="@string/pref_sound_key"
+            android:summaryOff="@string/pref_sound_false"
+            android:summaryOn="@string/pref_sound_true"
+            android:title="@string/pref_sound_label" />
+        ¬
+        <PreferenceScreen
+            android:key="@string/pref_test_notification_key"
+            android:summary="@string/pref_test_notification_summary"
+            android:title="@string/pref_test_notification_title">
+
+        </PreferenceScreen>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

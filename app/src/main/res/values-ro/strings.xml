@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Titles -->
+    <string name="app_name">Zile de nastere</string>
+    <string name="dialog_add">Nou ziua de nastere</string>
+    <string name="dialog_edit">Edita ziua de nastere</string>
+    <string name="title_activity_settings">Setări</string>
+    <string name="notification_title">Memento zi de naștere</string>
+    <string name="title_activity_help">Ajutor</string>
+
+    <!-- Menu -->
+    <string name="action_help">Ajutor</string>
+    <string name="action_settings">Setări</string>
+    <string name="item_menu_edit">Edita</string>
+    <string name="item_menu_delete">șterge</string>
+    <string name="item_menu_alarm">Memento Toggle</string>
+
+    <!-- AddEdit DialogFragment -->
+    <string name="hint_name">Nume&#8230;</string>
+    <string name="button_positive">Terminat</string>
+    <string name="button_negative">Anula</string>
+
+    <string name="birthday">aniversare</string>
+    <string name="date_is">este</string>
+    <string name="date_today">astăzi</string>
+    <string name="date_tomorrow">Mâine</string>
+    <string name="date_week">saptamana viitoare</string>
+    <string name="date_2_week">în două săptămâni</string>
+    <string name="date_this">acest</string>
+    <string name="date_days">zile</string>
+    <string name="reminder_set">activat</string>
+    <string name="reminder_canceled">anulat</string>
+    <string name="pref_category_reminder">Setările Memento</string>
+
+    <!-- Preference Strings -->
+    <string name="enabled">Activat</string>
+    <string name="disabled">Dezactivat</string>
+    <string name="date">Data</string>
+    <string name="name">Nume</string>
+    <string name="day0">În ziua</string>
+    <string name="day1">cu o zi înainte</string>
+    <string name="day2">2 zile înainte</string>
+    <string name="day3">3 zile înainte</string>
+    <string name="day4">4 zile înainte</string>
+    <string name="day5">5 zile înainte</string>
+    <string name="day6">6 zile înainte</string>
+    <string name="day7">o săptămână înainte</string>
+    <string name="day14">2 săptămâni înainte de</string>
+
+    <string name="pref_remind_day_title">Aminteste-mi</string>
+    <string name="pref_remind_day_title_dialog">Ziua memento</string>
+    <string name="pref_remind_time_title">Ora memento</string>
+    <string name="pref_enable_notifications_label">Arată memento-uri?</string>
+    <string name="pref_vibrate_label">Permiteți vibrațiilor?</string>
+    <string name="pref_sound_label">Permiteți sunet?</string>
+    <string name="pref_test_notification_summary">Arata o notificare exemplu utilizând setările curente</string>
+    <string name="pref_test_notification_title">Arată exemplu memento</string>
+    <string name="pref_sort_by_title">Sortare aniversari</string>
+    <string name="pref_sort_by_title_dialog">Sortare aniversari de</string>
+
+    <string name="help_add_title">Adaugă naștere</string>
+    <string name="help_add_content">Pentru a adăuga un nou memento zi de naștere, atingeți pictograma tort. Apoi introduceți numele și data.</string>
+    <string name="help_edit_title">Informații edita ziua de nastere</string>
+    <string name="help_edit_content">Apăsați numele de naștere pe care doriți să schimbați. Apoi faceți clic pe butonul de editare.</string>
+    <string name="help_delete_title">Ștergeți naștere</string>
+    <string name="help_delete_content">Apăsați ziua de naștere pe care doriți să schimbați din lista. Apoi apăsați Ștergere.</string>
+    <string name="help_alarm_single_title">Anula memento</string>
+    <string name="help_alarm_single_content">Atingeți pictograma alarmei pentru a comuta memento alarmă.</string>
+    <string name="help_alarm_all_title">Rândul său, toate memento-uri de pe</string>
+    <string name="help_alarm_all_content">Deschide meniul de setări, apoi apăsați opțiunea notificări de reamintire Permite.</string>
+
+    <!-- Information & help Text -->
+    <string name="empty_list_message">Atingeți pictograma tort pentru a adăuga aniversari!</string>
+
+    <!-- New Strings -->
+    <string name="date_yesterday">Ieri</string>
+    <string name="pref_theme_dialog_title">tema Culoare</string>
+    <string name="pref_theme_title">alege culoare</string>
+    <string name="theme0">Albastru</string>
+    <string name="theme1">Roz</string>
+    <string name="theme2">Verde</string>
+    <string name="pref_category_list">Setări de afișare</string>
+    <string name="preffered_email">Alegeți aplicația preferată</string>
+    <string name="send_email">Trimite email</string>
+    <string name="email_me_text">Primesc ajutor, trimite feedback sau sugerează o caracteristică nouă</string>
+    <string name="reminder_for">"memento pentru "</string>
+    <string name="for_next_year">" pentru anul viitor"</string>
+    <string name="include_year">Includeți an</string>
+    <string name="deleted">eliminate</string>
+    <string name="undo">anula</string>
+    <string name="contact_already_added">a fost deja adăugat</string>
+    <string name="contact_permission_denied_message">Permisiunea necesară pentru a încărca contacte</string>
+    <string name="import_contacts">contacte de import</string>
+    <string name="no_contacts_found">Nicio persoană de contact găsite</string>
+    <string name="no_contacts_message">Vă rugăm să adăugați informații ziua de naștere la persoanele de contact pentru ei pentru a arăta aici.</string>
+    <string name="added">a adăugat</string>
+    <string name="title_privacy_policy">Politica de confidentialitate</string>
+    <string name="error_try_again">Eroare, vă rugăm să încercați din nou&#8230;</string>
+
+
+</resources>

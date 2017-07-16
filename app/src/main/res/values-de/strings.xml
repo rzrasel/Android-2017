@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Titles -->
+    <string name="app_name">Geburtstage</string>
+    <string name="dialog_add">Neue Geburtstag</string>
+    <string name="dialog_edit">Bearbeiten</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="notification_title">Geburtstagserinnerung</string>
+    <string name="title_activity_help">Hilfe</string>
+
+    <!-- Menu -->
+    <string name="action_help">Hilfe</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="item_menu_edit">Bearbeiten</string>
+    <string name="item_menu_delete">Löschen</string>
+    <string name="item_menu_alarm">Umschalten Mahnung</string>
+
+    <!-- AddEdit DialogFragment -->
+    <string name="hint_name">Name&#8230;</string>
+    <string name="button_positive">Fertig</string>
+    <string name="button_negative">Absagen</string>
+
+    <!-- Information & help Text -->
+    <string name="empty_list_message">Tippen Sie auf die Geburtstagstorte Symbol, um neue Geburtstage!</string>
+
+    <string name="date_today">heute</string>
+    <string name="date_tomorrow">morgen</string>
+    <string name="date_week">nächste Woche</string>
+    <string name="date_2_week">in zwei Wochen</string>
+    <string name="date_this">diesen </string>
+    <string name="date_days">Tage</string>
+    <string name="reminder_set">set</string>
+    <string name="reminder_canceled">storniert</string>
+    <string name="pref_category_reminder">Erinnerungseinstellungen</string>
+
+    <!-- Preference Strings -->
+    <string name="birthday">geburtstag</string>
+    <string name="date_is">ist</string>
+    <string name="enabled">Aktiviert</string>
+    <string name="disabled">Behindert</string>
+    <string name="date">Datum</string>
+    <string name="name">Name</string>
+    <string name="day0">am Tag</string>
+    <string name="day1">der Tag zuvor</string>
+    <string name="day2">2 Tage vor</string>
+    <string name="day3">3 Tage vor</string>
+    <string name="day4">4 Tage vor</string>
+    <string name="day5">5 Tage vor</string>
+    <string name="day6">6 Tage vor</string>
+    <string name="day7">eine Woche vor</string>
+    <string name="day14">2 Wochen vor</string>
+
+    <string name="pref_remind_day_title">Rerinnere mich</string>
+    <string name="pref_remind_day_title_dialog">Tag der Erinnerung</string>
+    <string name="pref_remind_time_title">Zeit der Erinnerung</string>
+    <string name="pref_enable_notifications_label">Show Erinnerungen?</string>
+    <string name="pref_vibrate_label">Ermöglichen Vibrations?</string>
+    <string name="pref_sound_label">Ermöglichen Alarmton?</string>
+    <string name="pref_test_notification_summary">Zeigen ein Beispiel Benachrichtigung mit den aktuellen Einstellungen</string>
+    <string name="pref_test_notification_title">Zeigen beispielsweise Erinnerungs</string>
+    <string name="pref_sort_by_title">Sort Geburtstage</string>
+    <string name="pref_sort_by_title_dialog">Sort Geburtstage von</string>
+
+    <string name="help_add_title">Neu</string>
+    <string name="help_add_content">Um eine neue Geburtstagserinnerung hinzuzufügen, tippen Sie auf die Geburtstagstorte Symbol. Geben Sie dann den Namen und das Datum .</string>
+    <string name="help_edit_title">Bearbeiten</string>
+    <string name="help_edit_content">Tippen Sie auf den Namen des Geburtstags Sie möchten, um zu ändern. Klicken Sie dann auf die Schaltfläche Bearbeiten.</string>
+    <string name="help_delete_title">Löschen</string>
+    <string name="help_delete_content">Tippen Sie auf die Geburtstags Sie möchten, um von der Liste zu ändern. Tippen Sie dann auf Löschen .</string>
+    <string name="help_alarm_single_title">Schalten Erinnerung off</string>
+    <string name="help_alarm_single_content">Tippen Sie auf das Alarmsymbol, um den Alarm Erinnerung umzuschalten.</string>
+    <string name="help_alarm_all_title">Schalten Sie alle Erinnerungen off</string>
+    <string name="help_alarm_all_content">Öffnen Sie das Menü Einstellungen, und tippen Sie auf die Option Erinnerung Meldungen zulassen.</string>
+
+    <!-- New Strings -->
+    <string name="date_yesterday">gestern</string>
+    <string name="pref_theme_dialog_title">Thema Farbe</string>
+    <string name="pref_theme_title">wählen Sie Farbe</string>
+    <string name="theme0">blau</string>
+    <string name="theme1">rosa</string>
+    <string name="theme2">Grün</string>
+    <string name="pref_category_list">Bildschirmeinstellungen</string>
+    <string name="preffered_email">Wählen Sie Ihre bevorzugte Anwendung</string>
+    <string name="send_email">Nachricht senden</string>
+    <string name="email_me_text">Erhalten Sie Hilfe, Feedback zu übermitteln oder schlagen eine neue Funktion</string>
+    <string name="reminder_for">Erinnerung fürr</string>
+    <string name="for_next_year">" für das nächste Jahr"</string>
+    <string name="include_year">Enthalten jahr</string>
+    <string name="deleted">gelöscht</string>
+    <string name="undo">lösen</string>
+    <string name="contact_already_added">wurde bereits hinzugefügt</string>
+    <string name="contact_permission_denied_message">Die Erlaubnis benötigt Kontakte zu laden</string>
+    <string name="import_contacts">Kontakte importieren</string>
+    <string name="no_contacts_found">Keine Kontakte gefunden</string>
+    <string name="no_contacts_message">Bitte fügen Sie Geburtstagsinformationen zu Ihren Kontakten für sie hier zu zeigen.</string>
+    <string name="added">hinzugefügt</string>
+    <string name="title_privacy_policy">Datenschutz-Bestimmungen</string>
+    <string name="error_try_again">Fehler, versuchen Sie es erneut&#8230;</string>
+
+
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Titles -->
+    <string name="app_name">Compleanni</string>
+    <string name="dialog_add">Nuovo Compleanno</string>
+    <string name="dialog_edit">Modifica Compleanno</string>
+    <string name="title_activity_settings">Impostazioni</string>
+    <string name="notification_title">Compleanno Promemoria</string>
+    <string name="title_activity_help">Aiuto</string>
+
+    <!-- Menu -->
+    <string name="action_help">Aiuto</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="item_menu_edit">Modifica</string>
+    <string name="item_menu_delete">Cancellare</string>
+    <string name="item_menu_alarm">Promemoria Ginocchiera</string>
+
+    <!-- AddEdit DialogFragment -->
+    <string name="hint_name">Nome&#8230;</string>
+    <string name="button_positive">Fatto</string>
+    <string name="button_negative">Cancellare</string>
+
+    <string name="birthday">il compleanno</string>
+    <string name="date_is">è</string>
+    <string name="date_today">oggi</string>
+    <string name="date_tomorrow">domani</string>
+    <string name="date_week">la prossima settimana</string>
+    <string name="date_2_week">in due settimane</string>
+    <string name="date_this">Questo </string>
+    <string name="date_days">giorni</string>
+    <string name="reminder_set">accendere</string>
+    <string name="reminder_canceled">annullato</string>
+    <string name="pref_category_reminder">Impostazioni Promemoria</string>
+
+    <!-- Preference Strings -->
+    <string name="enabled">Permettere</string>
+    <string name="disabled">Invalido</string>
+    <string name="date">Data</string>
+    <string name="name">Nome</string>
+    <string name="day0">nel giorno</string>
+    <string name="day1">il giorno prima</string>
+    <string name="day2">2 giorni prima</string>
+    <string name="day3">3 giorni prima</string>
+    <string name="day4">4 giorni prima</string>
+    <string name="day5">5 giorni prima</string>
+    <string name="day6">6 giorni prima</string>
+    <string name="day7">una settimana prima</string>
+    <string name="day14">2 settimane prima</string>
+
+    <string name="pref_remind_day_title">Ricordami</string>
+    <string name="pref_remind_day_title_dialog">Giorno del ricordo</string>
+    <string name="pref_remind_time_title">Tempo di promemoria</string>
+    <string name="pref_enable_notifications_label">Mostra avvisi?</string>
+    <string name="pref_vibrate_label">Consenti vibrazioni/</string>
+    <string name="pref_sound_label">Consenti tono di allarme?</string>
+    <string name="pref_test_notification_summary">Mostra una notifica di esempio utilizzando le impostazioni correnti</string>
+    <string name="pref_test_notification_title">Visualizza l\'esempio promemoria</string>
+    <string name="pref_sort_by_title">Ordina compleanni</string>
+    <string name="pref_sort_by_title_dialog">Ordina per compleanni</string>
+
+    <string name="help_add_title">Nuovo Compleanno</string>
+    <string name="help_add_content">Per aggiungere un nuovo promemoria compleanno, toccare l\'icona torta di compleanno. Quindi, immettere il nome e la data.</string>
+    <string name="help_edit_title">Modifica Compleanno</string>
+    <string name="help_edit_content">Toccare il nome del compleanno che si desidera modificare. Quindi fare clic sul pulsante Modifica.</string>
+    <string name="help_delete_title">Eliminare Compleanno</string>
+    <string name="help_delete_content">Toccare il compleanno che si desidera modificare dall\'elenco. Quindi toccare Elimina.</string>
+    <string name="help_alarm_single_title">Annullare Promemoria</string>
+    <string name="help_alarm_single_content">Toccare l\'icona di allarme per attivare il promemoria di allarme.</string>
+    <string name="help_alarm_all_title">Girare tutti i promemoria via</string>
+    <string name="help_alarm_all_content">Aprire il menu delle impostazioni, e toccare l\'opzione Consenti notifiche promemoria.</string>
+
+    <!-- Information & help Text -->
+    <string name="empty_list_message">Toccare l\'icona della torta di compleanno per iniziare ad aggiungere i compleanni!</string>
+
+    <!-- New Strings -->
+    <string name="date_yesterday">Ieri</string>
+    <string name="pref_theme_dialog_title">tema Colore</string>
+    <string name="pref_theme_title">Scegli Colore</string>
+    <string name="theme0">Blu</string>
+    <string name="theme1">Rosa</string>
+    <string name="theme2">Verde</string>
+    <string name="pref_category_list">Impostazioni di visualizzazione</string>
+    <string name="preffered_email">Scegli la tua applicazione preferita</string>
+    <string name="send_email">Invia una email</string>
+    <string name="email_me_text">Ricevere aiuto, inviare commenti o suggerire una nuova funzione</string>
+    <string name="reminder_for">"promemoria per "</string>
+    <string name="for_next_year">" per il prossimo anno"</string>
+    <string name="include_year">Includi anno</string>
+    <string name="deleted">cancellati</string>
+    <string name="undo">disfare</string>
+    <string name="contact_already_added">è già stato aggiunto</string>
+    <string name="contact_permission_denied_message">Il permesso necessario per caricare i contatti</string>
+    <string name="import_contacts">importare i contatti</string>
+    <string name="no_contacts_found">Nessun contatto trovato</string>
+    <string name="no_contacts_message"> Si prega di aggiungere le informazioni di compleanno ai tuoi contatti per loro di mostrare qui.</string>
+    <string name="added">aggiunto</string>
+    <string name="title_privacy_policy">politica sulla riservatezza</string>
+    <string name="error_try_again">Errore, riprova&#8230;</string>
+
+
+</resources>
