@@ -1,1 +1,4 @@
-# Android-2017
+birthday-reminder
+=================
+
+Android contact birthday reminder
