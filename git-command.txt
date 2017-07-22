@@ -1,0 +1,36 @@
+
+git remote add origin https://github.com/user/repo.git
+
+git init
+git remote add DemoTypicDutchEmoji git@bitbucket.org:rzbucket/sm-demo-typical-dutch-emoji-keyboard.git
+git checkout -b Dutch-Emoji-Keyboard-Backup
+git pull https://rzbucket@bitbucket.org/rzbucket/sm-demo-typical-dutch-emoji-keyboard.git
+git add .
+git commit -m "add new"
+git push https://rzbucket@bitbucket.org/rzbucket/sm-demo-typical-dutch-emoji-keyboard.git --all
+
+
+git pull <remote> <branch>
+git pull https://rzbucket@bitbucket.org/rzbucket/sm-demo-typical-dutch-emoji-keyboard.git Dutch-Emoji-Keyboard-Backup
+
+git push <remote> <branch>
+git push https://rzbucket@bitbucket.org/rzbucket/sm-demo-typical-dutch-emoji-keyboard.git Demo-Typical-Dutch-Emoji-Keyboard-Backup  (NOT WORK)
+
+
+git init
+git remote add origin https://github.com/rzrasel/Android-2017.git
+git remote -v
+git checkout -b And-Git-IjkPlayer-001
+git pull https://rzbucket@bitbucket.org/rzbucket/sm-demo-typical-dutch-emoji-keyboard.git
+git fetch && git checkout And-Git-IjkPlayer-001
+add .
+git commit -m "add new"
+git push https://github.com/rzrasel/Android-2017.git --all
+
+
+git remote show origin
+git branch
+
+
+
+
