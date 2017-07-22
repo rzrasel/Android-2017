@@ -4,38 +4,16 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    tools:context="com.tang.test.MainActivity"
     android:orientation="vertical"
-    tools:context="com.cd.ijkplayer.MainActivity">
-
+    android:padding="12dp"
+    >
     <Button
+        android:id="@+id/test01"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-
-        android:background="@drawable/shape_edit_bg"
-        android:id="@+id/btn_video"
-        android:gravity="center"
-        android:text="竖屏/横屏切换播放"
-        android:textAllCaps="false"/>
-
-    <Button
-        android:background="@drawable/shape_edit_bg"
-        android:text="横屏/固定全屏播放"
-        android:textAllCaps="false"
-        android:id="@+id/btn_fullscreen_video"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
-    <Button
-        android:background="@drawable/shape_edit_bg"
-        android:text="直播"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/btn_rtmp_video" />
-
-    <Button
-        android:background="@drawable/shape_edit_bg"
-        android:text="Button"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/button4" />
+        android:layout_height="48dp"
+        android:background="@color/colorAccent"
+        android:textColor="@android:color/white"
+        android:text="点播测试"
+        />
 </LinearLayout>

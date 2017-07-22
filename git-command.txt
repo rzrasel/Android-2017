@@ -20,9 +20,9 @@ git push https://rzbucket@bitbucket.org/rzbucket/sm-demo-typical-dutch-emoji-key
 git init
 git remote add origin https://github.com/rzrasel/Android-2017.git
 git remote -v
-git checkout -b And-Git-IjkPlayer-001
-git pull https://rzbucket@bitbucket.org/rzbucket/sm-demo-typical-dutch-emoji-keyboard.git
-git fetch && git checkout And-Git-IjkPlayer-001
+git checkout -b And-Git-IjkPlayer-002
+git pull https://github.com/rzrasel/Android-2017.git
+git fetch && git checkout And-Git-IjkPlayer-002
 add .
 git commit -m "add new"
 git push https://github.com/rzrasel/Android-2017.git --all
@@ -34,3 +34,4 @@ git branch
 
 
 
+Swift - How to show “paste” tooltip menu programmatically from iOS custom keyboard
