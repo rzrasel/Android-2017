@@ -57,6 +57,7 @@ public class JumpDialog extends Dialog implements View.OnClickListener {
 
     private void initViews() {
         mEditText = (EditText) findViewById(R.id.mEditText);
+        mEditText.setText("http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4");
     }
 
     @Override
