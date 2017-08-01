@@ -22,3 +22,6 @@ git fetch && git checkout Resource-Layout-Nesting-001
 add .
 git commit -m "add new"
 git push --all
+
+git branch -m Resource-Layout-Nesting-001 And-Resource-Layout-Nesting-001
+git push -u origin And-Resource-Layout-Nesting-001
