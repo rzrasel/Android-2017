@@ -1,0 +1,24 @@
+git init
+git remote add Android-2017 git@github.com:rzrasel/Android-2017.git
+git checkout -b And-Dynamic-Adapter-Grid-View
+git pull https://github.com/rzrasel/Android-2017.git
+git add .
+git commit -m "Add New Project"
+git push https://github.com/rzrasel/Android-2017.git --all
+
+
+git pull <remote> <branch>
+git pull https://keyboard.git And-Dynamic-Adapter-Grid-View
+
+git push <remote> <branch>
+git push https://keyboard.git
+And-Dynamic-Adapter-Grid-View  (NOT WORK)
+
+
+git init
+git remote add origin https://github.com/rzrasel/Android-2017.git
+git remote -v
+git fetch && git checkout And-Dynamic-Adapter-Grid-View
+add .
+git commit -m "add new"
+git push --all
